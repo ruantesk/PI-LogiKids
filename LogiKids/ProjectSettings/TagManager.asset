@@ -41,3 +41,15 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: "Fund\xE3o"
+    uniqueID: 3788119501
+    locked: 0
+  - name: Fundo
+    uniqueID: 3599239789
+    locked: 0
+  - name: Meio
+    uniqueID: 3801945519
+    locked: 0
+  - name: Frente
+    uniqueID: 1855081221
+    locked: 0
